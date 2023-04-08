@@ -4,9 +4,14 @@ A LitElement that creates a grid-based game board with customizable dimensions a
 
 ## Usage
 
-´´´html
-<game-board grid-cells-x="8" grid-cells-y="10" grid-width="80vw" grid-height="90vh"></game-board>
-´´´
+```html
+<game-board
+  grid-cells-x="8"
+  grid-cells-y="10"
+  grid-width="80vw"
+  grid-height="90vh"
+></game-board>
+```
 
 ## Properties
 
