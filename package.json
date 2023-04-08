@@ -1,5 +1,5 @@
 {
-  "name": "game-board",
+  "name": "@manufosela/game-board",
   "description": "A game board for parts of a game with other components.",
   "license": "Apache-2.0",
   "author": "manufosela",
